@@ -7,3 +7,9 @@ The pixel art in this directory is licensed under the
 The full license text is in [LICENSE](LICENSE).
 
 You are free to share and adapt the artwork, including for commercial use, as long as you give appropriate credit.
+
+## Preview
+
+| SH | SHv2 | SHv3 | SHv31 |
+|:--:|:--:|:--:|:--:|
+| <img src="SH.png" width="128"> | <img src="SHv2.png" width="128"> | <img src="SHv3.gif" width="128"> | <img src="SHv31.gif" width="128"> |
